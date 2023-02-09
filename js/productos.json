@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "titulo": "Glitter en gel 01",
+        "descripcion": "Ideal para cualquier tipo de evento evento",
+        "imagen": "../img/violet.jpg",
+        "categoria": {
+            "nombre": "Glitter",
+           "id": "Glitter"
+
+        },
+        "precio": 600
+    },
+
+    {
+        "id": 2,
+        "titulo": "Glitter en gel 02",
+        "descripcion": "Ideal para cualquier tipo de evento evento",
+        "imagen": "../img/verde.jpg",
+        "categoria": {
+            "nombre": "Glitter",
+           "id": "Glitter"
+        },
+        "precio": 600
+    },
+
+
+    {
+        "id": 3,
+        "titulo": "Glitter en gel 03",
+        "descripcion": "Ideal para cualquier tipo de evento evento",
+        "imagen": "../img/lil.jpeg",
+        "categoria": {
+            "nombre": "Glitter",
+           "id": "Glitter"
+        },
+        "precio": 600
+    },
+
+    {
+        "id": 4,
+        "titulo": "Glitter en gel 04",
+        "descripcion": "Ideal para peinados",
+        "imagen": "../img/dorado.jpg",
+        "categoria": {
+            "nombre": "Glitter",
+           "id": "Glitter"
+
+        },
+        "precio": 600
+    },
+
+    {
+        "id": 5,
+        "titulo": "Combo glitters",
+        "descripcion": "Ideal para peinados",
+        "imagen": "../img/combo.jpg",
+        "categoria": {
+            "nombre":"todos",
+           "id": "todos"
+
+        },
+        "precio": 1500
+    },
+
+    {
+        "id": 6,
+        "titulo": "Glitter en polvo",
+        "descripcion": "Ideal para peinados",
+        "imagen": "../img/polvo.jpg",
+        "categoria": {
+            "nombre": "todos",
+           "id": "todos"
+
+        },
+        "precio": 500
+    },
+
+    {
+        "id": 7,
+        "titulo": "Tatuajes",
+        "descripcion": "Ideal para peinados",
+        "imagen": "../img/tatoo.jpg",
+        "categoria": {
+            "nombre":"todos",
+           "id": "todos"
+        },
+
+        "precio": 400
+    },
+
+    {
+        "id": 8,
+        "titulo": "Stickers",
+        "descripcion": "Ideal para peinados",
+        "imagen": "../img/facee.jpg",
+        "categoria": {
+            "nombre": "todos",
+           "id": "todos"
+
+        },
+
+        "precio": 300
+    }
+
+]
